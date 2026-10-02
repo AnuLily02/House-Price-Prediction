@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+# data and trained models are usually not committed
+data/*.csv
+models/*.pkl
