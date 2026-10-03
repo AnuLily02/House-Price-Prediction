@@ -5,8 +5,8 @@ import numpy as np
 # LOAD DATA
 # ==============================
 
-train_path = "../data/Cleaned train.csv"
-test_path = "../data/Cleaned test.csv"
+train_path = "C:/Users/Anupama/OneDrive/Desktop/House Price Prediction/data/Cleaned train.csv"
+test_path = "C:/Users/Anupama/OneDrive/Desktop/House Price Prediction/data/Cleaned test.csv"
 
 train = pd.read_csv(train_path)
 test = pd.read_csv(test_path)
